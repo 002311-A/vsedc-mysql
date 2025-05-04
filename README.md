@@ -10,9 +10,3 @@ This is a template repository for running [MySQL](https://www.mysql.com) on Rend
 
 ## MySQL Versions
 The `master` branch runs MySQL 8. You can use the `mysql-5` branch to run MySQL 5 instead.
-
-## Deployment
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/mysql)
-
-See https://render.com/docs/deploy-mysql.
